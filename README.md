@@ -8,15 +8,13 @@
 
 ## Background
 
-A/B testing has achieved practical significance for boosting sales by promotion strategy,
-
-what next?
+A/B testing has achieved practical significance for boosting sales by promotion strategy, what next?
 
 When a company wants to test whether a new product or advertising strategy will increase customer engagement, they often do so by designing and conducting A/B testing within a certain customer segment. The variations in A/B testing metrics (such as user engagement, purchase conversion rates, average click-throughs rates, etc.) are analyzed, and if there is a significant increase, it proves that the new feature or strategy is effective. The next step might seem to be rolling out the new feature/product/strategy to all customer groups or the entire platform, but that is a complete mistake!
 
 <div align="center">
 
-  <img src="https://github.com/Ting-DS/Starbucks-Promotion-Strategies-Optimization/blob/main/png/starbucks-sign.jpeg" width="100%">
+  <img src="https://github.com/Ting-DS/Starbucks-Promotion-Strategies-Optimization/blob/main/png/target_client.png" width="100%">
 
 </div>
 
@@ -41,7 +39,7 @@ The initial dataset is a task prepared by [Starbucks](https://www.starbucks.com/
 ## Results
 <div align="center">
 
-  <img src="https://github.com/Ting-DS/Starbucks-Promotion-Strategies-Optimization/blob/main/png/starbucks-sign.jpeg" width="100%">
+  <img src="https://github.com/Ting-DS/Starbucks-Promotion-Strategies-Optimization/blob/main/png/Results.png" width="100%">
 
 </div>
 
