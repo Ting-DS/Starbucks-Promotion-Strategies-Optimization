@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <img src="https://github.com/Ting-DS/Spark_Music_App/blob/main/image/AWS_EMR.png" width="100%">
+  <img src="https://github.com/Ting-DS/Starbucks-Promotion-Strategies-Optimization/blob/main/png/starbucks-sign.jpeg" width="100%">
 
 </div>
 
@@ -16,7 +16,7 @@ When a company wants to test whether a new product or advertising strategy will 
 
 <div align="center">
 
-  <img src="https://github.com/Ting-DS/Spark_Music_App/blob/main/image/AWS_EMR.png" width="100%">
+  <img src="https://github.com/Ting-DS/Starbucks-Promotion-Strategies-Optimization/blob/main/png/starbucks-sign.jpeg" width="100%">
 
 </div>
 
@@ -41,7 +41,7 @@ The initial dataset is a task prepared by [Starbucks](https://www.starbucks.com/
 ## Results
 <div align="center">
 
-  <img src="https://github.com/Ting-DS/Spark_Music_App/blob/main/image/AWS_EMR.png" width="100%">
+  <img src="https://github.com/Ting-DS/Starbucks-Promotion-Strategies-Optimization/blob/main/png/starbucks-sign.jpeg" width="100%">
 
 </div>
 
