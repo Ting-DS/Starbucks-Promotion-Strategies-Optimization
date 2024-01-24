@@ -1,5 +1,5 @@
 # Starbucks Promotion Strategy Optimization
-#### All Analysis Insights in My Medium Article: [After A/B Testing: Optimize a Advertising Promotion Strategy by Audience Targeting].(https://medium.com/@LobsterTing/optimize-a-promotion-strategy-by-a-b-testing-and-audience-targeting-17b7ec49c55b)
+#### All Analysis Insights in My Medium Article: [After A/B Testing: Optimize a Advertising Promotion Strategy by Audience Targeting](https://medium.com/@LobsterTing/optimize-a-promotion-strategy-by-a-b-testing-and-audience-targeting-17b7ec49c55b)
 <div align="center">
 
   <img src="https://github.com/Ting-DS/Starbucks-Promotion-Strategies-Optimization/blob/main/png/starbucks-sign.jpeg" width="60%">
