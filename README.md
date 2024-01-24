@@ -12,11 +12,13 @@ A/B testing has achieved practical significance for boosting sales by promotion 
 
 When a company wants to test whether a new product or advertising strategy will increase customer engagement, they often do so by designing and conducting A/B testing within a certain customer segment. The variations in A/B testing metrics (such as user engagement, purchase conversion rates, average click-throughs rates, etc.) are analyzed, and if there is a significant increase, it proves that the new feature or strategy is effective. The next step might seem to be rolling out the new feature/product/strategy to all customer groups or the entire platform, but that is a complete mistake!
 
+
 <div align="center">
 
-  <img src="https://github.com/Ting-DS/Starbucks-Promotion-Strategies-Optimization/blob/main/png/target_client.png" width="100%">
+  <img src="https://github.com/Ting-DS/Starbucks-Promotion-Strategies-Optimization/blob/main/png/target_client.png" width="60%">
 
 </div>
+
 
 Launching new products/advertising strategies/features requires investment in terms of money and time. The results of A/B testing only prove the effectiveness of intervention, but if this intervention is blindly applied to all future customers, the company may not only fail to make a profit but also incur losses! The correct approach is to establish new business metrics while considering costs and benefits. These metrics represent the profit growth that the company expects to achieve through the launch of new features/strategies.
 
