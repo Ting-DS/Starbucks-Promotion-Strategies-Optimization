@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <img src="https://github.com/Ting-DS/Starbucks-Promotion-Strategies-Optimization/blob/main/png/starbucks-sign.jpeg" width="100%">
+  <img src="https://github.com/Ting-DS/Starbucks-Promotion-Strategies-Optimization/blob/main/png/starbucks-sign.jpeg" width="60%">
 
 </div>
 
