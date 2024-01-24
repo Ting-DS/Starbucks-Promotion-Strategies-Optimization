@@ -1,5 +1,5 @@
-# A/B Testing Post-analysis and Client Targeting for Starbucks Promotion Strategy Optimization
-
+# Starbucks Promotion Strategy Optimization
+#### A/B Testing Post-analysis and Customer Targeting
 <div align="center">
 
   <img src="https://github.com/Ting-DS/Starbucks-Promotion-Strategies-Optimization/blob/main/png/starbucks-sign.jpeg" width="60%">
